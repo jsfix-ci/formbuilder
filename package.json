@@ -34,7 +34,7 @@
     "react-jsonschema-form": "^0.40.0",
     "react-redux": "^4.0.6",
     "react-router": "^1.0.3",
-    "redux": "^3.0.5",
+    "redux": "^4.2.0",
     "redux-thunk": "^1.0.3",
     "riek": "^1.0.2",
     "string": "^3.3.1",
